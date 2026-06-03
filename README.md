@@ -152,7 +152,7 @@ fun_fact: "I love building applications that solve real-world problems 🚀"
 
 | 📖 Degree | 🏫 Institution | 📅 Duration | 🎯 Status |
 |:--:|:--:|:--:|:--:|
-| B.Tech Information Technology | Sri Shakthi Institute of Engineering and Technology | 08/2024 - 05/2028 | 2nd Year |
+| B.Tech Information Technology | Sri Shakthi Institute of Engineering and Technology | 08/2024 - 05/2028 | 3rd Year |
 | Higher Secondary (HSC) | State Board | 06/2023 - 04/2024 | Completed |
 
 </div>
