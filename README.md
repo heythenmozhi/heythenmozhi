@@ -10,34 +10,35 @@
 
 ---
 
-## 💻 About Me
+```yaml
+name: Thenmozhi R
+location: Tamil Nadu, India
+education:
+  degree: B.Tech Information Technology
+  university: Sri Shakthi Institute of Engineering and Technology
+  year: 3rd Year
 
-python
-class Thenmozhi:
-    def __init__(self):
-        self.name = "Thenmozhi R"
-        self.location = "Tamil Nadu, India"
-        self.degree = "B.Tech Information Technology"
-        self.university = "Sri Shakthi Institute of Engineering and Technology"
-        self.current_year = 2nd
-        
-    def languages(self):
-        return ["Python", "Java", "C/C++", "JavaScript", "PHP"]
-    
-    def frameworks(self):
-        return ["HTML", "CSS", "JavaScript", "MongoDB"]
-    
-    def currently_learning(self):
-        return ["React", "Node.js", "Advanced Web Development", "System Design"]
-    
-    def fun_fact(self):
-        return "I love building applications that solve real-world problems"
-    
-    def get_motto(self):
-        return "Code with passion, Learn with purpose, Build with impact 🚀"
+skills:
+  languages:
+    - Python
+    - Java
+    - C/C++
+    - JavaScript
+    - PHP
 
-me = Thenmozhi()
+  web:
+    - HTML
+    - CSS
+    - JavaScript
+    - MongoDB
 
+currently_learning:
+  - React
+  - Node.js
+  - System Design
+
+fun_fact: "I love building applications that solve real-world problems 🚀"
+```
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
