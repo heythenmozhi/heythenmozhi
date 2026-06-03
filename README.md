@@ -12,31 +12,34 @@
 
 ## 💻 About Me
 
-<img align="right" width="280" style="object-fit: cover; object-position: top; border-radius: 10px;" src="https://raw.githubusercontent.com/heythenmozhi/heythenmozhi/main/profile.png" alt="Thenmozhi R"/>
+python
+class Thenmozhi:
+    def __init__(self):
+        self.name = "Thenmozhi R"
+        self.location = "Tamil Nadu, India"
+        self.degree = "B.Tech Information Technology"
+        self.university = "Sri Shakthi Institute of Engineering and Technology"
+        self.current_year = 2nd
+        
+    def languages(self):
+        return ["Python", "Java", "C/C++", "JavaScript", "PHP"]
+    
+    def frameworks(self):
+        return ["HTML", "CSS", "JavaScript", "MongoDB"]
+    
+    def currently_learning(self):
+        return ["React", "Node.js", "Advanced Web Development", "System Design"]
+    
+    def fun_fact(self):
+        return "I love building applications that solve real-world problems"
+    
+    def get_motto(self):
+        return "Code with passion, Learn with purpose, Build with impact 🚀"
 
-```javascript
-const thenmozhi = {
-  name: "Thenmozhi R",
-  location: "🌏 Tamil Nadu, India",
-  role: "💻 Full Stack Developer | 🎓 B.Tech IT Student",
-  university: "Sri Shakthi Institute of Engineering and Technology",
-  currentYear: "2nd Year",
-  
-  languages: ["🐍 Python", "☕ Java", "⚙️ C/C++", "✨ JavaScript", "🐘 PHP"],
-  
-  frontendSkills: ["🎨 HTML5", "🎨 CSS3", "⚡ JavaScript"],
-  
-  backendSkills: ["📦 MongoDB", "🔧 Basic Node.js"],
-  
-  currentlyLearning: ["⚛️ React", "🚀 Node.js", "📐 System Design", "☁️ Cloud Deployment"],
-  
-  funFact: "🎯 I love building applications that solve real-world problems",
-  
-  motivation: "Code with passion 💡 | Learn with purpose 📚 | Build with impact 🚀"
-};
+me = Thenmozhi()
 
-// Let's build something amazing together!
-```
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ---
 
@@ -93,12 +96,6 @@ const thenmozhi = {
 </div>
 
 ---
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heythenmozhi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" width="100%">
-</div>
 
 ---
 
@@ -161,3 +158,47 @@ const thenmozhi = {
 </div>
 
 ### 🧱 Currently Learning
+
+```
+→ Frontend Frameworks (React.js)
+  ├─ Component Architecture
+  ├─ State Management
+  └─ Advanced Hooks
+
+→ Backend Development (Node.js & Express)
+  ├─ RESTful APIs
+  ├─ Database Design
+  └─ Authentication & Security
+
+→ Advanced Topics
+  ├─ System Design
+  ├─ Cloud Deployment
+  └─ DevOps Basics
+```
+
+---
+
+## 📞 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thenmozhiraja22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thenmozhi-r-935422338/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heythenmozhi)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917010995334)
+
+</div>
+
+---
+
+## ⭐ Support
+
+If you find my projects helpful, please consider giving them a star! Your support motivates me to create more amazing projects.
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=heythenmozhi&color=70A5FD&style=flat-square)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
